@@ -1,5 +1,5 @@
 # OCI
-# ☁️ Oracle Cloud Infrastructure (OCI)
+#  Oracle Cloud Infrastructure (OCI)
 
 Welcome to my **Oracle Cloud Infrastructure (OCI)** learning repository.
 
@@ -58,12 +58,7 @@ I am using this repository to:
 - Subnetting
 - Subnet Masks
 - Public and Private Subnets
-- Route Tables
-- Internet Gateway
-- NAT Gateway
-- Service Gateway
-- Security Lists
-- Network Security Groups (NSG)
+  
 
 ### 🔹 Compute
 
@@ -72,23 +67,17 @@ I am using this repository to:
 - Images
 - Boot Volumes
 - Instance Configuration
-- SSH Connectivity
-- Linux Administration
+- 
 
 ### 🔹 Storage
 
 - Block Volume
-- Object Storage
-- File Storage
 - Boot Volumes
-- Storage Concepts
+
 
 ### 🔹 Security
 
 - IAM
-- Least Privilege
-- Security Lists
-- Network Security Groups
 - Cloud Security Fundamentals
 - Access Control
 
@@ -106,8 +95,6 @@ OCI/
 ├── Subnetting/
 ├── Compute/
 ├── Storage/
-├── Security/
-├── Linux/
 └── Labs/
 ```
 
